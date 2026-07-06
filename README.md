@@ -1,6 +1,3 @@
-# student-eda-walkthrough
-Exploratory Data Analysis Using a student performance dataset using Pandas and Matplotlib.
-
 # 📊 From Messy Data to Clear Insights: Student Performance EDA
 
 An end-to-end Exploratory Data Analysis (EDA) project uncovering key patterns in student academic performance, built from a custom dataset designed to simulate real-world data quality challenges.
