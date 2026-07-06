@@ -1,4 +1,4 @@
-# 📊 From Messy Data to Clear Insights: Student Performance EDA
+# 📊 From Messy Datasets to Clear Insights: Student Performance EDA
 
 An end-to-end Exploratory Data Analysis (EDA) project uncovering key patterns in student academic performance, built from a custom dataset designed to simulate real-world data quality challenges.
 
@@ -55,13 +55,7 @@ This project walks through a complete EDA pipeline — from raw, messy data to a
 
 ## 🔗 Connect
 
-- 📝 Medium: [https://medium.com/@hasan.huraira704/from-messy-data-to-clear-insights-my-first-end-to-end-eda-walkthrough-e6c6bdbba689]
-- 💼 LinkedIn: [https://www.linkedin.com/in/hasan-mohamed-926230395]
-
----
-⭐ If you found this project useful, consider giving it a star!
-
-- 📝 Medium: [(https://medium.com/@hasan.huraira704)]
+-  📝 Medium: [(https://medium.com/@hasan.huraira704)]
 - 💼 LinkedIn: [https://www.linkedin.com/in/hasan-mohamed-926230395]
 
 ---
