@@ -6,8 +6,6 @@ An end-to-end Exploratory Data Analysis (EDA) project uncovering key patterns in
 
 This project walks through a complete EDA pipeline — from raw, messy data to actionable insights — using a custom-built student dataset. It was designed to mirror the kind of imperfect data analysts and ML engineers encounter in practice: missing values, inconsistencies, and quality issues that must be identified and handled before analysis is meaningful.
 
-📝 Full write-up: [Read the Medium article](your-medium-link-here)
-
 📝 Full write-up: [Read the Medium article](https://medium.com/@hasan.huraira704/from-messy-data-to-clear-insights-my-first-end-to-end-eda-walkthrough-e6c6bdbba689) 
 
 ## 🎯 Objective
