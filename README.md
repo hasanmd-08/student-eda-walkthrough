@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
 # student-eda-walkthrough
 Exploratory Data Analysis Using a student performance dataset using Pandas and Matplotlib.
->>>>>>> 77bab55a98ae2f5307b45295b9c873750eae7f72
+
 # 📊 From Messy Data to Clear Insights: Student Performance EDA
 
 An end-to-end Exploratory Data Analysis (EDA) project uncovering key patterns in student academic performance, built from a custom dataset designed to simulate real-world data quality challenges.
@@ -11,11 +9,9 @@ An end-to-end Exploratory Data Analysis (EDA) project uncovering key patterns in
 
 This project walks through a complete EDA pipeline — from raw, messy data to actionable insights — using a custom-built student dataset. It was designed to mirror the kind of imperfect data analysts and ML engineers encounter in practice: missing values, inconsistencies, and quality issues that must be identified and handled before analysis is meaningful.
 
-<<<<<<< HEAD
 📝 Full write-up: [Read the Medium article](your-medium-link-here)
-=======
+
 📝 Full write-up: [Read the Medium article](https://medium.com/@hasan.huraira704/from-messy-data-to-clear-insights-my-first-end-to-end-eda-walkthrough-e6c6bdbba689) 
->>>>>>> 77bab55a98ae2f5307b45295b9c873750eae7f72
 
 ## 🎯 Objective
 
@@ -48,12 +44,9 @@ This project walks through a complete EDA pipeline — from raw, messy data to a
 
 1. Clone this repository:
 ```bash
-<<<<<<< HEAD
-   git clone https://github.com/yourusername/student-eda-walkthrough.git
-=======
    git clone https://github.com/hasanmd-08/student-eda-walkthrough.git
->>>>>>> 77bab55a98ae2f5307b45295b9c873750eae7f72
 ```
+
 2. Open `student_eda.ipynb` in Google Colab or Jupyter Notebook
 3. Run all cells sequentially
 
@@ -65,16 +58,14 @@ This project walks through a complete EDA pipeline — from raw, messy data to a
 
 ## 🔗 Connect
 
-<<<<<<< HEAD
 - 📝 Medium: [https://medium.com/@hasan.huraira704/from-messy-data-to-clear-insights-my-first-end-to-end-eda-walkthrough-e6c6bdbba689]
 - 💼 LinkedIn: [https://www.linkedin.com/in/hasan-mohamed-926230395]
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
-=======
+
 - 📝 Medium: [(https://medium.com/@hasan.huraira704)]
 - 💼 LinkedIn: [https://www.linkedin.com/in/hasan-mohamed-926230395]
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
->>>>>>> 77bab55a98ae2f5307b45295b9c873750eae7f72
